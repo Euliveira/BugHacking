@@ -1,2 +1,2 @@
-# BugHacking
-Softwares para Bug Boulty
+# Bug Bounty
+Softwares para Bug Bounty
